@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on computer 
-- 🌱 I’m currently learning computer skills
+- 🌱 I’m currently learning computer skill
 - 👯 I’m looking to collaborate on computer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
